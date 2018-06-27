@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\test.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-06-27" time="03:09:30">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8922" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release" machine-name="DESKTOP-LR7FL6G" user="VAdiM" user-domain="DESKTOP-LR7FL6G" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\test.dll" executed="True" result="Success" success="True" time="1.802" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="test" executed="True" result="Success" success="True" time="1.779" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Success" success="True" time="1.777" asserts="0">
+            <results>
+              <test-case name="test.Class1.TestMethod1" executed="True" result="Success" success="True" time="1.579" asserts="1" />
+              <test-case name="test.Class1.TestMethod11" executed="True" result="Success" success="True" time="0.013" asserts="1" />
+              <test-case name="test.Class1.TestMethod2" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+              <test-case name="test.Class1.TestMethod22" executed="True" result="Success" success="True" time="0.018" asserts="1" />
+              <test-case name="test.Class1.TestMethod3" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="test.Class1.TestMethod33" executed="True" result="Success" success="True" time="0.012" asserts="1" />
+              <test-case name="test.Class1.TestMethod4" executed="True" result="Success" success="True" time="0.027" asserts="1" />
+              <test-case name="test.Class1.TestMethod44" executed="True" result="Success" success="True" time="0.012" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

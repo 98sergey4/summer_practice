@@ -1,0 +1,9 @@
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\test.dll
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\test.pdb
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\nunit.framework.dll
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\WF_lab3.exe
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\WF_lab3.pdb
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\bin\Release\nunit.framework.xml
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\obj\Release\test.dll
+C:\Users\VAdiM\Documents\Visual Studio 2015\Projects\WF_lab3\test\obj\Release\test.pdb
